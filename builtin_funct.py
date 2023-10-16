@@ -1,0 +1,8 @@
+print(abs(-10))
+print(len("welcomeTo,MIET!"))
+print(min([10,20,30]))
+print(round(3.14159, 2))
+print("CSE, 3rd Sem!".isalnum())
+print("123abc".isalnum())
+print(type(10))
+print(type("AI and, ML!"))

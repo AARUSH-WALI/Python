@@ -1,0 +1,6 @@
+numbers=list(range(1,11))
+print(numbers)
+numbers.append(11)
+numbers.insert(0,0)
+numbers.remove(5)
+print("modified list:",numbers)
